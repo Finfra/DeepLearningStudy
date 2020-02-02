@@ -1,3 +1,16 @@
+# To process
+toProcess
+# for Mac
+.DS_Store
+Icon
+._*
+.Trash-0
+
+# for Tensorflow 
+**/MNIST_data
+**/events.out.tfevents.*
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
