@@ -9,7 +9,9 @@ Icon
 # for Tensorflow 
 **/MNIST_data
 **/events.out.tfevents.*
-
+**/flower_photos
+**/flower_photos.tgz 
+**/imagenet-vgg-verydeep-19.mat
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
